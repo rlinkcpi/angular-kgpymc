@@ -6,4 +6,3 @@
 # This is a second bit of work
 # This is line three.
 # This is line 4
-# This is a second bit of work
