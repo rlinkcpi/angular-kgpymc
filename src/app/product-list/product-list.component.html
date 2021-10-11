@@ -22,7 +22,7 @@ can be found in the LICENSE file at https://angular.io/license
   </button>
 
   <app-product-alerts
-  [product]="product">
-</app-product-alerts>
-
+    [product]="product" 
+    (notify)="onNotify()">
+  </app-product-alerts>
 </div>
